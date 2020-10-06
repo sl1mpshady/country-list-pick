@@ -199,8 +199,6 @@ List<Map> codes = [
   {"name": "Saint Helena", "code": "SH", "dial_code": "+290"},
   {"name": "Saint Kitts and Nevis", "code": "KN", "dial_code": "+1869"},
   {"name": "Saint Lucia", "code": "LC", "dial_code": "+1758"},
-  {"name": "Saint-Martin", "code": "MF", "dial_code": "+590"},
-  {"name": "Saint-Pierre-et-Miquelon", "code": "PM", "dial_code": "+508"},
   {
     "name": "Saint Vincent and the Grenadines",
     "code": "VC",

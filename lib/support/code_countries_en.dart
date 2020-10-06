@@ -202,7 +202,6 @@ List<Map> countriesEnglish = [
   {"name": "Romania", "dial_code": "+40", "code": "RO"},
   {"name": "Russia", "dial_code": "+7", "code": "RU"},
   {"name": "Rwanda", "dial_code": "+250", "code": "RW"},
-  {"name": "Reunion", "dial_code": "+262", "code": "RE"},
   {"name": "Saint Barthelemy", "dial_code": "+590", "code": "BL"},
   {
     "name": "Saint Helena, Ascension and Tristan Da Cunha",
@@ -211,8 +210,6 @@ List<Map> countriesEnglish = [
   },
   {"name": "Saint Kitts and Nevis", "dial_code": "+1869", "code": "KN"},
   {"name": "Saint Lucia", "dial_code": "+1758", "code": "LC"},
-  {"name": "Saint Martin", "dial_code": "+590", "code": "MF"},
-  {"name": "Saint Pierre and Miquelon", "dial_code": "+508", "code": "PM"},
   {
     "name": "Saint Vincent and the Grenadines",
     "dial_code": "+1784",
